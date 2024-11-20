@@ -1,6 +1,0 @@
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.csproj.AssemblyReference.cache
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.AssemblyInfoInputs.cache
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.AssemblyInfo.cs
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.csproj.CoreCompileInputs.cache
-/workspaces/MyMvcApp-Alan/TestProject2/obj/Debug/net8.0/TestProject2.sourcelink.json

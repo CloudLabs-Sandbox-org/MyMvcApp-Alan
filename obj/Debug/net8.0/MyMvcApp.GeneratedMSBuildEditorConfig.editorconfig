@@ -12,7 +12,7 @@ build_property.RootNamespace = MyMvcApp
 build_property.ProjectDir = /workspaces/MyMvcApp-Alan/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.RazorLangVersion = 2.1
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /workspaces/MyMvcApp-Alan
@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 
 [/workspaces/MyMvcApp-Alan/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/MyMvcApp-Alan/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/workspaces/MyMvcApp-Alan/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -53,7 +57,3 @@ build_metadata.AdditionalFiles.CssScope =
 [/workspaces/MyMvcApp-Alan/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[/workspaces/MyMvcApp-Alan/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-xlfqnswz7s
